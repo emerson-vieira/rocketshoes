@@ -43,7 +43,7 @@ Clone the project and access the project folder to execute the application:
 ![image](https://user-images.githubusercontent.com/56702492/177891992-d6a7fa54-a599-41e4-944a-c20efb46a569.png)
 
 ```bash
-$ git clone <repository link of the project>
+$ git clone https://github.com/emerson-vieira/rocketshoes
 # install the dependecies: run the command "yarn install"
 $ run "yarn server" to enable the server with all the data and acess "http://localhost/3333/stocks", also access "http://localhost/3333/products" to see the resources 
 $ run "yarn start" to initialize the application and access the Home page "http://localhost/3333"
